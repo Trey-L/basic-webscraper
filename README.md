@@ -27,4 +27,4 @@ Install dependencies with:
 
 ```bash
 pip3 install requests beautifulsoup4
-
+```
